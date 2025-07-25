@@ -1,61 +1,53 @@
 ---
-layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+{% raw %}
 {% include base_path %}
+{% endraw %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, Tsinghua University, 2020-2024
+* M.S. in Computer Science, Tsinghua University, 2024-Present
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - Present: Autonomous Driving Research Intern
+  * Tsinghua University, School of Vehicle and Mobility
+  * Research focus: Computer vision, deep learning, sensor fusion for autonomous vehicles
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023 - 2024: Algorithm Intern
+  * Guanglun Intelligence
+  * Developed computer vision algorithms for autonomous driving applications
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C++, MATLAB
+* Deep Learning Frameworks: PyTorch, TensorFlow
+* Computer Vision: OpenCV, ROS
+* Autonomous Driving: Perception, Planning, Control
+* Tools: Git, Docker, Linux
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
