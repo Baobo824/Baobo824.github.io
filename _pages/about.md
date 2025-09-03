@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Baobo Xiong"
+title: "Baobo Xiong / 熊宝博"
 author_profile: true
 redirect_from: 
   - /about/
