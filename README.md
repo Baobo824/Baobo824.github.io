@@ -9,7 +9,6 @@ This website is built using the [Academic Pages](https://github.com/academicpage
 ## Features
 
 - **Publications**: Showcase research papers and publications
-- **Blog Posts**: Share insights and updates about physics research
 - **CV**: Professional curriculum vitae
 - **Responsive Design**: Works on desktop and mobile devices
 
@@ -33,7 +32,6 @@ This website is designed to be deployed on GitHub Pages. Simply push the code to
 - Modify `_data/authors.yml` for author information
 - Update `_pages/about.md` for the main page content
 - Add publications in `_publications/`
-- Add blog posts in `_posts/`
 
 ## Contact
 
