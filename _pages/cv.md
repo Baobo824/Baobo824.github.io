@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 {% raw %}
-{% include base_path %}
 {% endraw %}
 
 Education
@@ -32,6 +31,3 @@ Project Experience
   1. Research on multimodal fusion algorithm based on DVS and RGB images: Analyzed the spatial mapping relationship between DVS event streams and RGB images, designed a deep learning model to fuse the features of the two modalities, and solved the problems of low-texture target detection and misidentification;
   2. Self-built UAV obstacle avoidance and target detection dataset: Collected data containing various environments such as low-texture targets and high-dynamic scenes, designed a labeling process and verified data quality to ensure the effectiveness of algorithm training;
   3. Design and optimization of low-power real-time detection system: Aiming at the edge computing requirements of UAVs, optimized the computational complexity of the algorithm, developed a lightweight model to adapt to the hardware platform, and improved the real-time performance and energy efficiency of the system.
-
-
-
