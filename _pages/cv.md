@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 {% raw %}
-{% include base_path %}
 {% endraw %}
 
 Education
