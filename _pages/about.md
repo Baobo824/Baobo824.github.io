@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Yatong Lan - Autonomous Driving Research Intern"
+title: "Baobo Xiong"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Yatong Lan / 兰亚彤
+# Baobo Xiong / 熊宝博
 
-I am currently an Autonomous Driving Research Intern at Tsinghua University's School of Vehicle and Mobility, where I focus on developing robust perception systems and intelligent decision-making algorithms for autonomous vehicles. Previously, I worked as an Algorithm Intern at Guanglun Intelligence, gaining valuable experience in computer vision and deep learning applications for autonomous driving. My research interests include computer vision, sensor fusion, motion planning, and control systems for autonomous vehicles. I am passionate about advancing autonomous driving technology and contributing to the future of transportation.
+I am currently studying in the Physics Track of Zhili College, Tsinghua University. I am now part of Professor Chen Hong's research group at the School of Integrated Circuits, focusing on research into UAV high-speed obstacle avoidance and target detection algorithms based on DVS and RGB images. Previously, I engaged in condensed matter research in Professor Wei Bin's group at the Department of Physics. Later, hoping to combine the complex system analysis capabilities and "structure-function" research logic of physics with engineering technology to solve practical problems, I shifted to the field of intelligent algorithms, exploring the "theory-application" implementation path.

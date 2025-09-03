@@ -1,6 +1,6 @@
-# Yatong Lan's Personal Website
+# Baobo Xiong's Personal Website
 
-This is the personal academic website of Yatong Lan, an Autonomous Driving Research Intern at Tsinghua University.
+This is the personal academic website of Baobo Xiong, a Physics Student at Tsinghua University.
 
 ## About
 
@@ -9,7 +9,7 @@ This website is built using the [Academic Pages](https://github.com/academicpage
 ## Features
 
 - **Publications**: Showcase research papers and publications
-- **Blog Posts**: Share insights and updates about autonomous driving research
+- **Blog Posts**: Share insights and updates about physics research
 - **CV**: Professional curriculum vitae
 - **Responsive Design**: Works on desktop and mobile devices
 
@@ -25,7 +25,7 @@ To run this website locally:
 
 ## Deployment
 
-This website is designed to be deployed on GitHub Pages. Simply push the code to a repository named `yatonglan.github.io` and it will be automatically deployed.
+This website is designed to be deployed on GitHub Pages. Simply push the code to a repository named `Baobo824.github.io` and it will be automatically deployed.
 
 ## Customization
 
@@ -37,4 +37,4 @@ This website is designed to be deployed on GitHub Pages. Simply push the code to
 
 ## Contact
 
-For questions about this website or research collaborations, please contact yatong.lan@example.com
+For questions about this website or research collaborations, please contact xbb23@mails.tsinghua.edu.cn
